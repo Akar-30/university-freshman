@@ -1,4 +1,4 @@
-package OOP2.Homework1;
+package OOP2.Homework2;
 import java.util.Scanner;
 public class Person {
     Scanner scan = new Scanner(System.in);

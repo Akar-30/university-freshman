@@ -1,4 +1,4 @@
-package OOP2.Homework1;
+package OOP2.Homework2;
 
 import java.util.Random;
 
