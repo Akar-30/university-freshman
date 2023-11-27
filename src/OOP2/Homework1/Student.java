@@ -6,7 +6,7 @@ public class Student extends Person{
     Random random = new Random();
     private final int studentId= random.nextInt(0,10000);
     private int grade;
-    private int [] mark= new int[5]; //{17,45,46,9,3}
+    private final int [] mark= new int[5]; //{17,45,46,9,3}
 
 
 
