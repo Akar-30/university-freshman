@@ -1,4 +1,4 @@
-package School1;
+package OOP2.School1;
 import java.util.Scanner;
 
 public class AccountTest {
